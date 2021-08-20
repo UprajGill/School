@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index:99999;
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+#GR{
+    border-radius: 100;
+}
